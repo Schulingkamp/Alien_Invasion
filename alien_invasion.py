@@ -234,7 +234,7 @@ class AlienInvasion:
 				#Treat this the same as if the ship got hit
 				self._ship_hit()
 				break
-
+  
 	def _update_screen(self):
 		'''Update images on the screen, and flip to the new screen.'''
 		#Redraw the screen during each pass through the loop

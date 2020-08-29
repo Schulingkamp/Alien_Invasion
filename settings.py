@@ -10,7 +10,7 @@ class Settings():
 		self.bg_color = (230, 230, 230)
 
 		#Bullet settings
-		self.bullet_width = 5000
+		self.bullet_width = 3
 		self.bullet_height = 15
 		self.bullet_color = (0,0,200)
 		self.bullets_allowed = 10
